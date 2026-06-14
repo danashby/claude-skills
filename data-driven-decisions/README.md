@@ -1,4 +1,4 @@
-# 🧭 Data-Driven Decisions Skill
+# Data-Driven Decisions Skill
 
 A Claude skill that guides you through structured questioning to surface the data you need for informed decision making. Produces a professional ADR-style document at the end. Never makes the decision for you — just puts you in the best position to make it yourself.
 
@@ -33,4 +33,4 @@ The skill produces a styled HTML document in your preferred dark navy / teal / c
 
 ## Author
 
-Built by [Dan Ashby](https://evolvingleadership.uk) — Engineering & QA Leader and framework builder.
+Built by [Dan Ashby](https://www.linkedin.com/in/dan-ashby) — Engineering & QA Leader and framework builder.
