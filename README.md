@@ -22,6 +22,6 @@ Claude Skills are modular instruction sets that extend what Claude can do. Insta
 
 ## About
 
-Built by Dan Ashby — Engineering & QA Leader, founder of [EvolvingLeadership.uk](https://evolvingleadership.uk) and author of the [Continuous Intelligence Framework](https://continuous-intelligence.netlify.app).
+Built by Dan Ashby — Engineering & QA Leader, founder of [EvolvingLeadership.uk](https://evolvingleadership.uk) and author of the [AI-Native SDLC Framework](https://continuous-intelligence.netlify.app).
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/danashby) for new skills and framework updates.
+Follow me on [LinkedIn](https://www.linkedin.com/in/dan-ashby) for new skills and framework updates.
