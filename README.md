@@ -1,4 +1,4 @@
-# 🧠 Dan Ashby's Claude Skills Toolkit
+# Dan Ashby's Claude Skills Toolkit
 
 A collection of Claude skills built by [Dan Ashby](https://evolvingleadership.uk) — Engineering Leader, conference speaker, and framework builder.
 
